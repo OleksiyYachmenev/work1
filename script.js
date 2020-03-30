@@ -1,5 +1,5 @@
-let incr = 10,
-    decr = 10;
+let incr = 100,
+    decr = 100;
 
 console.log(incr);
 console.log(decr);
